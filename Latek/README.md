@@ -11,10 +11,10 @@
 
 <img src="docs/Intro.png">
 
-<p>As we know that the language used is LaTex we can look for known exploits, and we can find several interesting links on LaTex injection including: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection">LaTex injection</a>
+<p>As we know that the language used is LaTex we can look for known exploits, and we can find several interesting links on LaTex injection including: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection">LaTex injection</a></p>
 
 <img src="docs/End.png">
 
 <p>The flag given in the log file is not complete because the characters "{}" are not well decoded, but as we know the format of the flags we can easily find the flag.</p>
 
-<p><B>amateursCTFth3_l0w_budg3t_and_n0_1nstanc3ing_caus3d_us_t0_n0t_all0w_rc3_sadly = amateursCTF{th3_l0w_budg3t_and_n0_1nstanc3ing_caus3d_us_t0_n0t_all0w_rc3_sadly}</B></p>
+<p><B>Flag : amateursCTF{th3_l0w_budg3t_and_n0_1nstanc3ing_caus3d_us_t0_n0t_all0w_rc3_sadly}</B></p>
