@@ -4,6 +4,6 @@
 
 <p><i>"bryanguo (not associated with the ctf), keeps saying it's pronouced <B>latek not latex </B>like the glove material. anyways i made this simple app so he stops paying for overleaf"</i></p>
 
-<p>With the hint given in the presentation, we can already guess that the web server uses the language <a href="https://fr.wikipedia.org/wiki/LaTeX"><B>LaTex</B</a>
+<p>With the hint given in the presentation, we can already guess that the web server uses the language <a href="https://fr.wikipedia.org/wiki/LaTeX"><B>LaTex</B></a>
  So potentially the vulnerability to be exploited is a LaTex injection.</p>
 
